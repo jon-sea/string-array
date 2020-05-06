@@ -1,0 +1,21 @@
+{
+    "name": "string array",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*",
+        "corgio": "*"
+    },
+    "description": "",
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "yotta": {
+        "ignoreConflicts": true
+    },
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
